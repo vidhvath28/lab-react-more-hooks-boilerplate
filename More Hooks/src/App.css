@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+
+.App *{
+  margin: 10px;
+}
+
+.App button{
+  margin: 5px;
+}
+
+.list div{
+  background-color: aliceblue;
+}
